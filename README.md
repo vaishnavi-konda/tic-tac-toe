@@ -13,13 +13,13 @@ Rules of the Game:
 The board is numbered like the keyboard's number pad.
 And thus, a player can make their move in the game board by entering the number from the keyboard number pad.
  
-         |       |      
-     7   |   8   |   9   
-  _______|_______|_______
-         |       |       
-     4   |   5   |   6   
-  _______|_______|_______
-         |       |       
-     1   |   2   |   3   
-         |       |      
+            |       |      
+        7   |   8   |   9   
+     _______|_______|_______
+            |       |       
+        4   |   5   |   6   
+     _______|_______|_______
+            |       |       
+        1   |   2   |   3   
+            |       |      
   
